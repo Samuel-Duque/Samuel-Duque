@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Samuel / Sam</h1>
+<h3 align="center">A passionate  developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
