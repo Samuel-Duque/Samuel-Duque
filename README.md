@@ -1,8 +1,7 @@
+
+![image](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/61b0a67e-9b34-4a4c-9882-ebc910a47bb4)
 <h1 align="center">Hi 👋, I'm Samuel / Sam</h1>
 <h3 align="center">A passionate  developer from Brazil</h3>
-
-<img src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
 - 🔭 I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
 
