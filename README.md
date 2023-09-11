@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-![MasterHead](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/6d841014-2717-46c1-80f6-947887e4e172)
+![video](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/6d841014-2717-46c1-80f6-947887e4e172)
 
 <img align="right" alt="Coding" width="400" src=="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat"></img>
 
