@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel / Sam</h1>
 <h3 align="center">A passionate  developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z)">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&tbnid=3KL3RFvTk03ieM&vet=12ahUKEwiT6fuvrKGBAxWJQ7gEHW0KC-cQMygAegQIARBV..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&docid=wC1y6bJ6OPI5TM&w=498&h=277&q=coding%20gif&ved=2ahUKEwiT6fuvrKGBAxWJQ7gEHW0KC-cQMygAegQIARBV)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
 - 🔭 I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
