@@ -1,5 +1,3 @@
-<video align="right" alt="coding" src="https://preview.redd.it/mw4y58i658981.gif?format=mp4&s=5402a97dc6bcfca29eb780e174b85256912e300c">
-
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
