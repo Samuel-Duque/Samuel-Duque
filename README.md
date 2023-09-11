@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.instagram.com/ninatsurstudio/))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samuel / Sam</h1>
 <h3 align="center">A passionate  developer from Brazil</h3>
 
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
 - 🔭 I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
