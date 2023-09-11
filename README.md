@@ -1,5 +1,5 @@
 
-![image](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/61b0a67e-9b34-4a4c-9882-ebc910a47bb4)
+![gif](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/61b0a67e-9b34-4a4c-9882-ebc910a47bb4)
 <h1 align="center">Hi 👋, I'm Samuel / Sam</h1>
 <h3 align="center">A passionate  developer from Brazil</h3>
 
