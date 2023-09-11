@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
+<img align="right" alt="Coding" width="400" src=="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </img>
 
 - 🔭 I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
 
