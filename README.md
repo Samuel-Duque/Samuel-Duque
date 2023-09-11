@@ -1,3 +1,5 @@
+![image](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/98e7dcfa-0e59-4ea7-b273-9a0da4556557)
+
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
