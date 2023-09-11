@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.instagram.com/ninatsurstudio/))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Samuel / Sam</h1>
 <h3 align="center">A passionate  developer from Brazil</h3>
 
