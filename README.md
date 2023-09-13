@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
 
-- 🌱 I’m currently learning **Machine Learning, Front end skill as Svelte and Node and Data Scructure**
+- 🌱 I’m currently learning **Machine Learning, Front end skill as Svelte, Node and Data Scructure**
 
 - 👯 I’m looking to collaborate on **anything about Machine Learning**
 
