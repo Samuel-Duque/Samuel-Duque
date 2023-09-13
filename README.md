@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samuellocatel@gmail.com**
 
-- 📄 Know about my experiences [Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.](Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.)
+- 📄 Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
