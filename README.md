@@ -16,7 +16,7 @@
 - 📄 Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
 
 <h3 align="left">Stats:</h3>
-[(https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=react](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left">
 </p>
 
