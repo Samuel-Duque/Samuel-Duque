@@ -18,6 +18,7 @@
 <h3 align="left">Stats:</h3>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left">
+https://github.com/ashutosh00710/github-readme-activity-graph
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
