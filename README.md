@@ -17,7 +17,7 @@
 
 <h3 align="left">Stats:</h3>
 <p align="left">
-  [![Samuel-Duque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=react)](https://github.com/Samuel-Duque/github-readme-activity-graph)
+  [!Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=react)](https://github.com/Samuel-Duque/github-readme-activity-graph)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
