@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-duque&bg_color=fffff0&color=708090&show_icons=true&locale=en" alt="samuel-duque" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&bg_color=fffff0&color=708090" alt="samuel-duque" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&bg_color=fffff0&color=708090&show_icons=true&locale=en" alt="samuel-duque" /></p>
