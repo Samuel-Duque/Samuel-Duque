@@ -16,8 +16,8 @@
 - 📄 Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
 <br>
 
-![image](https://github.com/Samuel-Duque/Samuel-Duque/assets/131277691/07cf48f3-001e-4862-8ef3-dc6b5cf959ac)
-
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcat-code&psig=AOvVaw2awivAHtfqUkvasEknU7RB&ust=1700500276979000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjVj4_H0IIDFQAAAAAdAAAAABAE
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcat-code&psig=AOvVaw2awivAHtfqUkvasEknU7RB&ust=1700500276979000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjVj4_H0IIDFQAAAAAdAAAAABAE)
 <h3 align="left">Stats:</h3>
 
 
