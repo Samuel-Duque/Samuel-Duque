@@ -16,11 +16,12 @@
 - 📄 Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
 <br>
 
-![Cat Coding Gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding Gif" style="display: block; margin-left: auto; margin-right: auto;">
+</p>
+
+
 <h3 align="left">Stats:</h3>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
 </p>
