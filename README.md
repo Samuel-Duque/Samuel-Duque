@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Stats:</h3>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left">
 </p>
 
