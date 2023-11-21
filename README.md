@@ -17,8 +17,8 @@
 
 
 <h1 align="center"><i>A C T I V I T Y</i></h1>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left">
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
