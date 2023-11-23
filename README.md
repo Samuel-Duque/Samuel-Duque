@@ -16,15 +16,11 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding Gif" style="display: block; margin-left: auto; margin-right: auto;">
 </p>
 
-<h1 align="center"><i>A C T I V I T Y</i></h1>
+<h1 align="center"><i>A C T I V I T Y&emsp;</i></h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
 
 <p align="center" style="block"; border-color: 1px solid #fff>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,23 +30,189 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque&theme=gotham&layout=donut" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&theme=gotham&&card_width=780" />
+      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&theme=gotham&&card_width=774" />
     </a>
-</p>
-
-<p align="center">
+  
+<!-- <p align="left">
   <img src="https://api.githubtrends.io/user/svg/Samuel-Duque/repos?time_range=one_year&group=other&loc_metric=changed&&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false">
   </p>
-  <details open> 
-    <summary><h2>📘 My Most Recent Projects and Colaborations</h2></summary>
-  <p align="left">
-  <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
-  <a href="https://github.com/Samuel-Duque/Convenience-Heaven"><img witdh="278"src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Convenience-Heaven&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
-  <a href="https://github.com/Samuel-Duque/Python-project-Gas-station"><img witdh="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Python-project-Gas-station&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
-  <a href="https://github.com/Samuel-Duque/Usual-C-Topics"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Usual-C-Topics&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
-</details>
-</p>
+</p> -->
 
-<p align="left">
-    <a href="https://github.com/Samuel-Duque?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
+<h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;|&emsp;  P R O J E C T S</i></h2>
+
+<br>
+<br>
+
+<table align="left" height="500px" >
+ <tr>
+    <td align="center">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><br>
+      <sub>
+        <b>
+          <pre>TensorfLow</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <br>
+      <sub>
+        <b>
+          <pre>PHP</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br>
+      <sub>
+        <b>
+          <pre>GCP</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <br>
+      <sub>
+        <b>
+          <pre>Mongo</pre>
+        </b>
+      </sub>
+    </td>
+ <td align="center">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <br>
+      <sub>
+        <b>
+          <pre>Pandas</pre>
+        </b>
+      </sub>
+    </td>
+  
+  </tr>
+  <tr>
+  <td align="center">
+       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><br>
+      <sub>
+        <b>
+          <pre>C++</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ 
+
+ 
+
+  
+</table>
+
+<table align="right" height="500px" width="180px">
+
+  <tr>
+    <td>
+      <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Samuel-Duque/Convenience-Heaven"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Convenience-Heaven&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Samuel-Duque/Python-project-Gas-station"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Python-project-Gas-station&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Samuel-Duque/Usual-C-Topics"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Usual-C-Topics&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+    </td>
+  </tr>
+</table>
+<!-- <p align="center"> 
+     
+</p>  -->
+
+
