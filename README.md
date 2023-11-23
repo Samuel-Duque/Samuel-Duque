@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding Gif" style="display: block; margin-left: auto; margin-right: auto;">
 </p>
 
-<h1 align="center"><i>A C T I V I T Y&emsp;</i></h1>
+<h1 align="center"><i>&emsp;A C T I V I T Y&emsp;</i></h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -188,7 +188,7 @@
   
 </table>
 
-<table align="right" height="500px" width="180px">
+<table align="right" height="500px" width="160px">
 
   <tr>
     <td>
