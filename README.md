@@ -39,5 +39,18 @@
 </p>
 
 <p align="center">
-<img src="https://api.githubtrends.io/user/svg/Samuel-Duque/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark">
+  <img src="https://api.githubtrends.io/user/svg/Samuel-Duque/repos?time_range=one_year&group=other&loc_metric=changed&&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false">
+  </p>
+  <details open> 
+    <summary><h2>📘 My Most Recent Projects and Colaborations</h2></summary>
+  <p align="left">
+  <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+  <a href="https://github.com/Samuel-Duque/Convenience-Heaven"><img witdh="278"src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Convenience-Heaven&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+  <a href="https://github.com/Samuel-Duque/Python-project-Gas-station"><img witdh="278"  src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Python-project-Gas-station&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+  <a href="https://github.com/Samuel-Duque/Usual-C-Topics"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Usual-C-Topics&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false"></a>
+</details>
+</p>
+
+<p align="left">
+    <a href="https://github.com/Samuel-Duque?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
