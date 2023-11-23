@@ -46,10 +46,10 @@
 <table align="left" height="500px" >
  <tr>
     <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><br>
+      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
       <sub>
         <b>
-          <pre>TensorfLow</pre>
+          <pre>Java</pre>
         </b>
       </sub>
     </td>
@@ -70,25 +70,25 @@
       </sub>
     </td>
    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="Docker icon"/><br>
       <sub>
         <b>
-          <pre>React</pre>
+          <pre>DOCKER</pre>
         </b>
       </sub>
     </td>
   </tr>
  <tr>
     <td align="center">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <br>
+      <img src="https://skillicons.dev/icons?i=r" width="40px" alt="R icon"/><br>
       <sub>
         <b>
-          <pre>PHP</pre>
+          <pre>R</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br>
+      <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="GCP icon"/><br>
       <sub>
         <b>
           <pre>GCP</pre>
@@ -96,37 +96,39 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
       <sub>
         <b>
-          <pre>Mongo</pre>
+          <pre>MySql</pre>
         </b>
       </sub>
     </td>
  <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <br>
+      <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="40px" alt="Power BI icon"/><br>
       <sub>
         <b>
-          <pre>Pandas</pre>
+          <pre>Power BI</pre>
         </b>
       </sub>
     </td>
   
+        
+
   </tr>
   <tr>
   <td align="center">
-       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><br>
+      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="flask icon"/><br>
       <sub>
         <b>
-          <pre>C++</pre>
+          <pre>Flask</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><br>
+      <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/><br>
       <sub>
         <b>
-          <pre>Figma</pre>
+          <pre>Aws</pre>
         </b>
       </sub>
     </td>
@@ -139,10 +141,10 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/><br>
       <sub>
         <b>
-          <pre>Bootstrap</pre>
+          <pre>Linux</pre>
         </b>
       </sub>
     </td>
@@ -182,6 +184,10 @@
     </td>
   </tr>
  
+
+ 
+
+  
 </table>
 
 
