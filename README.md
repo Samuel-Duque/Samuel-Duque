@@ -70,28 +70,28 @@
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="Docker icon"/><br>
+      <img src="https://skillicons.dev/icons?i=svelte" width="40px" alt="Svelte icon"/><br>
       <sub>
         <b>
-          <pre>DOCKER</pre>
+          <pre>Svelte</pre>
         </b>
       </sub>
     </td>
   </tr>
  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=r" width="40px" alt="R icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vite" width="40px" alt="Vite icon"/><br>
       <sub>
         <b>
-          <pre>R</pre>
+          <pre>Vite</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="GCP icon"/><br>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40px" alt="Wordpress icon"/><br>
       <sub>
         <b>
-          <pre>GCP</pre>
+          <pre>WordPress</pre>
         </b>
       </sub>
     </td>
@@ -117,18 +117,18 @@
   </tr>
   <tr>
   <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="flask icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="40px" alt="React icon"/><br>
       <sub>
         <b>
-          <pre>Flask</pre>
+          <pre>React</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/><br>
       <sub>
         <b>
-          <pre>Aws</pre>
+          <pre>Nodejs</pre>
         </b>
       </sub>
     </td>
@@ -141,10 +141,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/><br>
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40px" alt="pytorch icon"/><br>
       <sub>
         <b>
-          <pre>Linux</pre>
+          <pre>Pytorch</pre>
         </b>
       </sub>
     </td>
