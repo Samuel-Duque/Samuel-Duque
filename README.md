@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
-- 🔭 I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
-- 🌱 I’m currently learning **Machine Learning, Front end skill as Svelte, Node and Data Scructure**
-- 👯 I’m looking to collaborate on **anything about Machine Learning**
-- 📫 How to reach me **samuellocatel@gmail.com**
-- 📄 Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
+-  I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
+-  I’m currently learning **Machine Learning, Front end skill as Svelte, Node and Data Scructure**
+-  I’m looking to collaborate on **anything about Machine Learning**
+-  How to reach me **samuellocatel@gmail.com**
+-  Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
 <br>
 <p align="center">
 <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22507%26project%3D%26in%3D0">
