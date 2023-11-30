@@ -33,10 +33,6 @@
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&theme=gotham&&card_width=774" />
     </a>
   
-<!-- <p align="left">
-  <img src="https://api.githubtrends.io/user/svg/Samuel-Duque/repos?time_range=one_year&group=other&loc_metric=changed&&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=false">
-  </p>
-</p> -->
 
 <h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;|&emsp;  P R O J E C T S</i></h2>
 
