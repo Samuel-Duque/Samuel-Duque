@@ -227,3 +227,5 @@
 </p>  
 
 
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=289c7f)
