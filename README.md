@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=289c7f&desc=A%20%20passionate%20developer%20from%20Brazil!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:163730,0:1c3734&reversal=true)
+
+
+<!--<h1 align="center">Hi 👋, I'm Samuel</h1>-->
+<!-- <h3 align="center">A passionate developer from Brazil</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
 
