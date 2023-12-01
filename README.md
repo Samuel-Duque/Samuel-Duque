@@ -230,4 +230,4 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Follow%20me!&fontAlign=50&fontColor=289c7f&stroke=000&color=0:1c3734,100:163730)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Follow%20me!&fontAlign=50&fontColor=289c7f&stroke=000&color=100:306058,0:70b5aa)
