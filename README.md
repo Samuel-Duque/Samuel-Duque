@@ -4,17 +4,17 @@
 <!--<h1 align="center">Hi 👋, I'm Samuel</h1>-->
 <!-- <h3 align="center">A passionate developer from Brazil</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-duque" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="samuel-duque" /> <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22507%26project%3D%26in%3D0">
+</p>
+<!-- <p align="center">
+</p> -->
 -  I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
 -  I’m currently learning **Machine Learning, Front end skill as Svelte, Node and Data Scructure**
 -  I’m looking to collaborate on **anything about Machine Learning**
 -  How to reach me **samuellocatel@gmail.com**
 -  Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
 <br>
-<p align="center">
-<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22507%26project%3D%26in%3D0">
-</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding Gif" style="display: block; margin-left: auto; margin-right: auto;">
 </p>
