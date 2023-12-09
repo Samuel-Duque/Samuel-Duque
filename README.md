@@ -9,17 +9,22 @@
 <!-- <p align="center">
 </p> -->
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300px"/>
 
+<br>
+
+
+  
 -  I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)
 -  I’m currently learning **Machine Learning, Front end skill as Svelte, Node and Data Scructure**
 -  I’m looking to collaborate on **anything about Machine Learning**
 -  How to reach me **samuellocatel@gmail.com**
 -  Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
+
+
+<br>
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding Gif" style="display: block; margin-left: auto; margin-right: auto;">
-</p>
 
 <h1 align="center"><i>&emsp;A C T I V I T Y&emsp;</i></h1>
 
