@@ -9,7 +9,7 @@
 <!-- <p align="center">
 </p> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260px"/>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <h1 align="center"><i>&emsp;A C T I V I T Y&emsp;</i></h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true&hide_border=true))
 
 
 
