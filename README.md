@@ -13,13 +13,11 @@
 
 <br>
 
-<p align="justify">
 -  I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice)<br>
 -  I’m currently learning **Machine Learning, Front end skill as Svelte, Node and Data Scructure**<br>
 -  I’m looking to collaborate on **anything about Machine Learning**<br>
 -  How to reach me **samuellocatel@gmail.com**<br>
 -  Know about my experiences: Dedicated and enthusiastic programmer with a strong foundation in Python, data structures in C, and front-end web development skills. Seeking opportunities to apply my programming expertise and expand my knowledge in machine learning and neural networks.
-</p>
 
 
 
