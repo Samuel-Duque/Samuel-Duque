@@ -203,17 +203,13 @@
 
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/ML_MNIST_DigitRecognizer"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=ML_MNIST_DigitRecognizer&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/ML_DigitRecognizer"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=ML_MNIST_DigitRecognizer&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
+  </tr>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Samuel-Duque/Convenience-Heaven"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Convenience-Heaven&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/emprega-social"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Emprega-Social&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
   <tr>
@@ -221,6 +217,10 @@
       <a href="https://github.com/Samuel-Duque/pescou-jobs"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=pescou-jobs&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
   <tr>
     <td>
       <a href="https://github.com/Samuel-Duque/Python-project-Gas-station"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Python-project-Gas-station&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
