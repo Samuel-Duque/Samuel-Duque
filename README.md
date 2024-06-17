@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=289c7f&desc=A%20%20passionate%20developer%20from%20Brazil!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:163730,0:1c3734&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=e5e5e0&desc=A%20%20passionate%20developer%20from%20Brazil!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:243353,0:00008b&reversal=true)
 
 
 <!--<h1 align="center">Hi 👋, I'm Samuel</h1>-->
@@ -239,4 +239,4 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Follow%20me!&fontAlign=50&fontColor=289c7f&stroke=000&color=100:306058,0:70b5aa)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Follow%20me!&fontAlign=50&fontColor=e5e5e0&stroke=000&color=100:243353,0:00008b)
