@@ -17,7 +17,7 @@
 -  I’m currently learning **Machine Learning, Angular, Node and Data Scructure**<br>
 -  I’m looking to collaborate on **Machine Learning and Open Scource Projects**<br>
 -  How to reach me **samuellocatel@gmail.com**<br>
--  Know about my experiences: I'm currently studying Computer Science at and I'm in the 3rd semester. I've been dedicating my time to studying Python and it's libraries. Moreover, I've been diving deeper into Front-end tools like Angular and React, Data Science, Neural Networks, C, and Data Structures. Certified in advanced English - C2 EF SET.
+-  I'm currently studying Computer Science at and I'm in the 3rd semester. I've been dedicating my time to studying Python and it's libraries. Moreover, I've been diving deeper into Front-end tools like Angular and React, Data Science, Neural Networks, C, and Data Structures. Certified in advanced English - C2 EF SET.
 
 
 
