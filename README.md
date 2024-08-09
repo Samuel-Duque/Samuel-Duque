@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=e5e5e0&desc=A%20%20passionate%20developer%20from%20Brazil!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:243353,0:00008b&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=e5e5e0&desc=Brazilian%20Dev%20!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:243353,0:00008b&reversal=true)
 
 
 <!--<h1 align="center">Hi 👋, I'm Samuel</h1>-->
@@ -9,15 +9,14 @@
 <!-- <p align="center">
 </p> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260px"/>
+<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260px"/>-->
 
 <br>
 
--  I’m currently working on [Neural Networks](https://github.com/Samuel-Duque/NeuralNetwork-Practice) and [Fullstack projects](https://github.com/Samuel-Duque/emprega-social) 💻<br>
--  I’m currently learning **Machine Learning, Angular, Node and Data Scructure**<br>
--  I’m looking to collaborate on **Machine Learning and Open Scource Projects**<br>
+-  I’m currently working on [Fullstack projects](https://github.com/Samuel-Duque/Tracker) 💻<br>
+-  Learning **Machine Learning, React, Node and Data Scructure**<br>
 -  How to reach me **samuellocatel@gmail.com**<br>
--  I'm currently studying Computer Science at and I'm in the 3rd semester. I've been dedicating my time to studying Python and it's libraries. Moreover, I've been diving deeper into Front-end tools like Angular and React, Data Science, Neural Networks, C, and Data Structures. Certified in advanced English - C2 EF SET.
+-  I'm currently studying Computer Science at and I'm in the 4th semester. I've been dedicating my time to studying Python and it's libraries. Moreover, I've been diving deeper into Front-end tools like Angular and React, Data Science, Neural Networks, C, and Data Structures. Certified in advanced English - C2 EF SET.
 
 
 
