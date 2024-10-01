@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=e5e5e0&desc=Brazilian%20Dev%20!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:243353,0:00008b&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=I'm%20Samuel&fontAlign=50&fontAlignY=35&fontColor=e5e5e0&desc=Brazilian%20Dev!&descAlignY=50&descAlign=50&animation=fadeIn&color=100:243353,0:00008b&reversal=true)
 
 
 <!--<h1 align="center">Hi 👋, I'm Samuel</h1>-->
