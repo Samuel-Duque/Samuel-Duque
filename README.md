@@ -34,10 +34,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-duque&theme=gotham" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque&theme=gotham&layout=donut" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&theme=gotham&&card_width=774" />
     </a>
   
