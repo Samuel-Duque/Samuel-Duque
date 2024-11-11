@@ -137,7 +137,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
+      <a href="https://github.com/Samuel-Duque"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
       <sub>
         <b>
           <pre>Github</pre>
@@ -202,7 +202,7 @@
 
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/ML_MNIST_DigitRecognizer"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=ML_MNIST_DigitRecognizer&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/FaceDetection-LibraryAccess"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=FaceDetection-LibraryAccess&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
   </tr>
