@@ -47,7 +47,7 @@
 <br>
 <br>
 
-<table align="left" height="500px" >
+<table align="left" height="500px" width="100px" >
  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
@@ -115,9 +115,6 @@
         </b>
       </sub>
     </td>
-  
-        
-
   </tr>
   <tr>
   <td align="center">
@@ -198,36 +195,36 @@
 
 <!-- -------------------------------------------------------------->
 
-<table align="right" height="500px" width="160px">
+<table align="right" height="500px" width="100px">
 
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/FaceDetection-LibraryAccess"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=FaceDetection-LibraryAccess&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/FaceDetection-LibraryAccess"><img witdh="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=FaceDetection-LibraryAccess&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/emprega-social"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=emprega-social&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/emprega-social"><img witdh="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=emprega-social&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/pescou-jobs"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=pescou-jobs&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/ImageResizer"><img witdh="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=ImageResizer&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/NeuralNetwork-Practice"><img witdh="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=NeuralNetwork-Practice&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/Python-project-Gas-station"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Python-project-Gas-station&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/Python-project-Gas-station"><img witdh="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Python-project-Gas-station&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Samuel-Duque/Usual-C-Topics"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Usual-C-Topics&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/Samuel-Duque/Usual-C-Topics"><img witdh="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-Duque&repo=Usual-C-Topics&&theme=react&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
     </td>
   </tr>
 </table>
