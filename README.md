@@ -37,9 +37,9 @@
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque&theme=gotham&layout=donut" />
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque">
-      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque&theme=gotham&&card_width=774" />
-    </a>
+<!--     <a href="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque">
+      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Samuel-Duque&theme=gotham&&card_width=774" />
+    </a> -->
   
 
 <h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;|&emsp;  P R O J E C T S</i></h2>
