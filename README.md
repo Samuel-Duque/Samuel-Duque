@@ -4,7 +4,7 @@
 <!--<h1 align="center">Hi 👋, I'm Samuel</h1>-->
 <!-- <h3 align="center">A passionate developer from Brazil</h3> -->
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="samuel-duque" /> <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22507%26project%3D%26in%3D0">
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=samuel-duque&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="samuel-duque" /><img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D22507">
 </p>
 <!-- <p align="center">
 </p> -->
@@ -13,10 +13,11 @@
 
 <br>
 
--  I’m currently working on [Fullstack projects](https://github.com/Samuel-Duque/Tracker) 💻<br>
--  Learning **Machine Learning, React, Node and Data Scructure**<br>
+-  I'm a software engineer Jr and actually work on backend with AdonisJs, Redis and SQL
+-  I’m currently creating [Fullstack projects](https://github.com/Samuel-Duque/Tracker) 💻<br>
+-  Learning **Typescript, Node, SQL and perfomatic code**<br>
 -  How to reach me **samuellocatel@gmail.com**<br>
--  I'm currently studying Computer Science at and I'm in the 4th semester. I've been dedicating my time to studying Python and it's libraries like PyTorch and Scikit-learn. Moreover, I've been diving deeper into Front-end tools like Angular and React, Data Science, Neural Networks, C, and Data Structures. Certified in advanced English - C2 EF SET.
+-  I'm currently studying Computer Science at and I'm in the 6th semester. I've been dedicating my time to studying Python and it's libraries like PyTorch and Scikit-learn. Moreover, I've been diving deeper into Front-end tools like Angular and React, Data Science, Neural Networks, C, and Data Structures. Certified in advanced English - C2 EF SET.
 
 
 
