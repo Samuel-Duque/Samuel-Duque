@@ -21,7 +21,7 @@
   <a href="mailto:samuellocatel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/samuel-duque">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -61,25 +61,31 @@ At <b>weedoit</b>, I work on a high-impact team responsible for a major educatio
 <h2 align="center">🚀 F E A T U R E D &nbsp;&nbsp; W O R K</h2>
 
 <br>
-<h3 align="center">1. Emprega Social (Fullstack)</h3>
+<h3 align="center">1. Bicho Capiba (Pet Adoption Platform)</h3>
 <table align="center" width="100%">
   <tr>
     <td width="60%">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Emprega Social Demo">
+      <a href="https://bichocapiba.trackr.fm/">
+        <img src="https://github.com/user-attachments/assets/5cd62013-1951-4087-afb6-37e568222c13" onerror="this.src='https://images.unsplash.com/photo-1592194996308-7b43878e84a6?q=80&w=1000&auto=format&fit=crop'" width="100%" alt="Bicho Capiba Screenshot">
+      </a>
     </td>
     <td width="40%">
       <br>
-      <b>The Challenge:</b> Creating a seamless platform to connect job seekers with social opportunities.
+      <b>The Challenge:</b> Connecting animal shelters (NGOs) with potential adopters and donors in a secure, efficient environment.
       <br><br>
-      <b>The Solution:</b> A robust fullstack application utilizing React for a responsive UI and Python for backend logic.
+      <b>The Solution:</b> A full-scale platform featuring the "My Dream Pet" matching system, adoption workflow management, and transparent donation channels.
       <br><br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Samuel-Duque/emprega-social">
+      <a href="https://github.com/Samuel-Duque/BichoCapiba">
         <img src="https://img.shields.io/badge/View_Code-button?style=for-the-badge&color=28a384">
+      </a>
+      <a href="https://bichocapiba.trackr.fm/">
+        <img src="https://img.shields.io/badge/Live_Demo-button?style=for-the-badge&color=FF5722">
       </a>
     </td>
   </tr>
