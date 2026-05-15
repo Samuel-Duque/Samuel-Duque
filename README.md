@@ -31,8 +31,8 @@ I enjoy working in teams, learning from others, and taking on challenges that pu
 - <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16" height="16"/> Node.js
 
 **Databases**
-- <img src="https://cdn.simpleicons.org/mysql/4479A1" width="16" height="16"/> MySQL
-- <img src="https://cdn.simpleicons.org/postgresql/336791" width="16" height="16"/> PostgreSQL
+- <img src="https://cdn.simpleicons.org/mysql/ffffff" width="16" height="16"/> MySQL
+- <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="16" height="16"/> PostgreSQL
 
 **Tools**
 - <img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16"/> Git
