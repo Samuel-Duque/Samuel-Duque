@@ -20,43 +20,31 @@ I enjoy working in teams, learning from others, and taking on challenges that pu
 ## Tech Stack
 
 **Languages**
-- ☕ Java
-- 🟨 JavaScript
-- 🔷 TypeScript
-- 🔗 Solidity
+- <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="16" height="16"/> Java
+- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16" height="16"/> JavaScript
+- <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16"/> TypeScript
+- <img src="https://cdn.simpleicons.org/solidity/6f6f6f" width="16" height="16"/> Solidity
 
 **Frameworks & Runtimes**
-- 🍃 Spring Boot
-- ⚛️ React
-- 🟩 Node.js
+- <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="16" height="16"/> Spring Boot
+- <img src="https://cdn.simpleicons.org/react/61DAFB" width="16" height="16"/> React
+- <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16" height="16"/> Node.js
 
 **Databases**
-- 🐬 MySQL
-- 🐘 PostgreSQL
+- <img src="https://cdn.simpleicons.org/mysql/4479A1" width="16" height="16"/> MySQL
+- <img src="https://cdn.simpleicons.org/postgresql/336791" width="16" height="16"/> PostgreSQL
 
 **Tools**
-- 🌿 Git
-- 🐙 GitHub
+- <img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16"/> Git
+- <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16"/> GitHub
 
 ---
 
 ## Currently Learning
 
-- ⛓️ Smart contract development and security
-- 🏗️ Clean architecture and microservices
-- 📐 Algorithms and data structures
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Duque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Duque&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- <img src="https://cdn.simpleicons.org/ethereum/6f6f6f" width="16" height="16"/> Smart contract development and security
+- <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="16" height="16"/> Clean architecture and microservices
+- <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="16" height="16"/> Algorithms and data structures
 
 ---
 
@@ -64,9 +52,9 @@ I enjoy working in teams, learning from others, and taking on challenges that pu
 
 I'm always happy to connect — whether it's about a project, an opportunity, or just a good tech conversation.
 
-- 🐙 GitHub — [github.com/Samuel-Duque](https://github.com/Samuel-Duque)
-- 💼 LinkedIn — [Samuel Andrés Duque Ríos](https://www.linkedin.com/in/samuel-andr%C3%A9s-duque-r%C3%ADos-96b79b341)
-- 📧 Email — [samduque2311@gmail.com](mailto:samduque2311@gmail.com)
+- <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16"/> GitHub — [github.com/Samuel-Duque](https://github.com/Samuel-Duque)
+- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16"/> LinkedIn — [Samuel Andrés Duque Ríos](https://www.linkedin.com/in/samuel-andr%C3%A9s-duque-r%C3%ADos-96b79b341)
+- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16"/> Email — [samduque2311@gmail.com](mailto:samduque2311@gmail.com)
 
 ---
 
