@@ -36,7 +36,7 @@ I enjoy working in teams, learning from others, and taking on challenges that pu
 
 **Tools**
 - <img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16"/> Git
-- <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16"/> GitHub
+- <img src="https://cdn.simpleicons.org/github/6f6f6f" width="16" height="16"/> GitHub
 
 ---
 
@@ -52,7 +52,7 @@ I enjoy working in teams, learning from others, and taking on challenges that pu
 
 I'm always happy to connect — whether it's about a project, an opportunity, or just a good tech conversation.
 
-- <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16"/> GitHub — [github.com/Samuel-Duque](https://github.com/Samuel-Duque)
+- <img src="https://cdn.simpleicons.org/github/6f6f6f" width="16" height="16"/> GitHub — [github.com/Samuel-Duque](https://github.com/Samuel-Duque)
 - <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16"/> LinkedIn — [Samuel Andrés Duque Ríos](https://www.linkedin.com/in/samuel-andr%C3%A9s-duque-r%C3%ADos-96b79b341)
 - <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16" height="16"/> Email — [samduque2311@gmail.com](mailto:samduque2311@gmail.com)
 
