@@ -10,10 +10,10 @@ I'm a 6th-semester Computer Engineering student passionate about building softwa
 
 I enjoy working in teams, learning from others, and taking on challenges that push me to grow. I'm currently looking for opportunities where I can contribute, learn, and add value as a developer.
 
-- 🔭 Working on personal backend and Solidity projects
-- 🌱 Currently deepening my knowledge in Smart Contracts and system design
-- 🤝 Open to jobs, internships, freelance work, and open-source collaborations
-- 💬 Ask me about Java, Spring Boot, or anything Blockchain-related
+- Working on personal backend and Solidity projects
+- Currently deepening my knowledge in Smart Contracts and system design
+- Open to jobs, internships, freelance work, and open-source collaborations
+- Ask me about Java, Spring Boot, or anything Blockchain-related
 
 ---
 
